@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML related to JavaScript type coercion within embedded scripts.  The bug occurs when attempting to concatenate a number and a string without explicit type conversion, leading to unexpected results. The solution highlights how to correct the error using proper type casting or string concatenation methods.
